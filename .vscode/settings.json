@@ -1,4 +1,5 @@
 {
   "markdown.extension.completion.enabled": false,
-  "markdown.extension.tableFormatter.enabled": false
+  "markdown.extension.tableFormatter.enabled": false,
+  "cmake.sourceDirectory": "/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp"
 }

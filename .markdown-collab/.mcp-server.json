@@ -1,8 +1,8 @@
 {
   "url": "http://127.0.0.1:55989/mcp",
   "port": 55989,
-  "token": "39ffa1923103a868cab58ee1ce2cb9ce71f87881be20a83459e0deaf48815325",
+  "token": "8dd391b0656543290c6172bb322bcfb9a59f5f7d98ad89f00ddce7911a84c47b",
   "version": "0.34.80",
-  "pid": 34788,
-  "startedAt": "2026-09-14T02:04:07.456Z"
+  "pid": 55501,
+  "startedAt": "2026-10-25T08:00:06.205Z"
 }
