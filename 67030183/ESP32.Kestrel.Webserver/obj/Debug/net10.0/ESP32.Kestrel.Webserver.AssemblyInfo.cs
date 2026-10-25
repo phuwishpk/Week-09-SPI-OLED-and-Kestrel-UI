@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ESP32.Kestrel.Webserver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f40edc098d5e8c14731ebcd217544c8e7a7e3f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c502d9ddbf561874e62de790bbf828bd42a8302e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESP32.Kestrel.Webserver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESP32.Kestrel.Webserver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

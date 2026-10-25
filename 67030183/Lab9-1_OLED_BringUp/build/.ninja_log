@@ -932,30 +932,6 @@
 16670	16714	1792916622544391795	esp-idf/mqtt/libmqtt.a	85515649d23e2463
 11511	17537	1792916623410631475	bootloader-prefix/src/bootloader-stamp/bootloader-configure	1dc2c43456946f47
 11511	17537	1792916623410631475	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure	1dc2c43456946f47
-17538	18996	1792916623411717903	bootloader-prefix/src/bootloader-stamp/bootloader-build	42faa6ce55e99691
-17538	18996	1792916623411717903	bootloader/bootloader.elf	42faa6ce55e99691
-17538	18996	1792916623411717903	bootloader/bootloader.bin	42faa6ce55e99691
-17538	18996	1792916623411717903	bootloader/bootloader.map	42faa6ce55e99691
-17538	18996	1792916623411717903	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	42faa6ce55e99691
-17538	18996	1792916623411717903	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader/bootloader.elf	42faa6ce55e99691
-17538	18996	1792916623411717903	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader/bootloader.bin	42faa6ce55e99691
-17538	18996	1792916623411717903	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader/bootloader.map	42faa6ce55e99691
-18996	19009	1792916624870451727	bootloader-prefix/src/bootloader-stamp/bootloader-install	998199983490d6fb
-18996	19009	1792916624870451727	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	998199983490d6fb
-19009	19034	1792916624907182762	CMakeFiles/bootloader-complete	f0878e38f637012
-19009	19034	1792916624907182762	bootloader-prefix/src/bootloader-stamp/bootloader-done	f0878e38f637012
-19009	19034	1792916624907182762	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/CMakeFiles/bootloader-complete	f0878e38f637012
-19009	19034	1792916624907182762	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f0878e38f637012
-16714	20226	1792916626069341407	esp-idf/esp_system/ld/sections.ld	17326c025703a494
-16714	20226	1792916626069341407	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_system/ld/sections.ld	17326c025703a494
-20227	20265	1792916626100750013	CMakeFiles/Lab9-1_OLED_BringUp.elf.dir/project_elf_src_esp32.c.obj	97827f48ef635f84
-20265	20604	1792916626139434109	Lab9-1_OLED_BringUp.elf	543f8ffd8a9b1698
-20604	20732	1792916626605499613	.bin_timestamp	413a00afd06dc3c8
-20604	20732	1792916626605499613	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/.bin_timestamp	413a00afd06dc3c8
-20732	20782	1792916626606285412	esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
-20732	20782	1792916626606285412	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
-108	161	1792918768018336543	esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
-108	161	1792918768018336543	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
 108	182	1792918768017903208	bootloader-prefix/src/bootloader-stamp/bootloader-build	42faa6ce55e99691
 108	182	1792918768017903208	bootloader/bootloader.elf	42faa6ce55e99691
 108	182	1792918768017903208	bootloader/bootloader.bin	42faa6ce55e99691
@@ -970,5 +946,146 @@
 194	217	1792918768126901000	bootloader-prefix/src/bootloader-stamp/bootloader-done	f0878e38f637012
 194	217	1792918768126901000	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/CMakeFiles/bootloader-complete	f0878e38f637012
 194	217	1792918768126901000	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f0878e38f637012
+16714	20226	1792916626069341407	esp-idf/esp_system/ld/sections.ld	17326c025703a494
+16714	20226	1792916626069341407	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_system/ld/sections.ld	17326c025703a494
+20227	20265	1792916626100750013	CMakeFiles/Lab9-1_OLED_BringUp.elf.dir/project_elf_src_esp32.c.obj	97827f48ef635f84
+20265	20604	1792916626139434109	Lab9-1_OLED_BringUp.elf	543f8ffd8a9b1698
+20604	20732	1792916626605499613	.bin_timestamp	413a00afd06dc3c8
+20604	20732	1792916626605499613	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/.bin_timestamp	413a00afd06dc3c8
+108	161	1792918768018336543	esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
+108	161	1792918768018336543	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
 218	5187	1792918768127701084	CMakeFiles/flash	c2c0e761abe055a8
 218	5187	1792918768127701084	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/CMakeFiles/flash	c2c0e761abe055a8
+26	6348	1792921692866545095	build.ninja	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/xtensa/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_ringbuf/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/efuse/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_mm/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/driver/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_pm/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/mbedtls/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/mbedtls/mbedtls/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/mbedtls/mbedtls/pkgconfig/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_bootloader_format/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_app_format/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/bootloader_support/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/bootloader/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esptool_py/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/partition_table/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_partition/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/app_update/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/spi_flash/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/pthread/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_system/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_system/port/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_system/port/soc/esp32/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_rom/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/hal/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/log/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/heap/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/soc/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_hw_support/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/freertos/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/newlib/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/newlib/port/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/cxx/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_common/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_timer/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/app_trace/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_event/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/nvs_flash/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_phy/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/vfs/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/lwip/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_netif_stack/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_netif/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/wpa_supplicant/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_coex/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_wifi/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/bt/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/unity/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/cmock/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/console/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/http_parser/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp-tls/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_adc/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_eth/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_gdbstub/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_hid/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/tcp_transport/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_http_client/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_http_server/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_https_ota/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_https_server/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_psram/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_lcd/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/protobuf-c/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/protocomm/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_local_ctrl/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/espcoredump/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/wear_levelling/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/sdmmc/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/fatfs/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/idf_test/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/ieee802154/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/json/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/mqtt/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/nvs_sec_provider/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/openthread/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/perfmon/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/spiffs/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/ulp/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/usb/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/wifi_provisioning/cmake_install.cmake	48166abcb5f005a5
+26	6348	1792921692866545095	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/main/cmake_install.cmake	48166abcb5f005a5
+49	189	1792921692959179470	bootloader-prefix/src/bootloader-stamp/bootloader-build	42faa6ce55e99691
+49	189	1792921692959179470	bootloader/bootloader.elf	42faa6ce55e99691
+49	189	1792921692959179470	bootloader/bootloader.bin	42faa6ce55e99691
+49	189	1792921692959179470	bootloader/bootloader.map	42faa6ce55e99691
+49	189	1792921692959179470	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	42faa6ce55e99691
+49	189	1792921692959179470	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader/bootloader.elf	42faa6ce55e99691
+49	189	1792921692959179470	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader/bootloader.bin	42faa6ce55e99691
+49	189	1792921692959179470	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader/bootloader.map	42faa6ce55e99691
+189	207	1792921693099232051	bootloader-prefix/src/bootloader-stamp/bootloader-install	998199983490d6fb
+189	207	1792921693099232051	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	998199983490d6fb
+207	247	1792921693155903000	CMakeFiles/bootloader-complete	f0878e38f637012
+207	247	1792921693155903000	bootloader-prefix/src/bootloader-stamp/bootloader-done	f0878e38f637012
+207	247	1792921693155903000	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/CMakeFiles/bootloader-complete	f0878e38f637012
+207	247	1792921693155903000	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f0878e38f637012
+48	276	1792921692958233180	esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.obj	57427f614bbf80b3
+277	437	1792921693186681059	esp-idf/esp_app_format/libesp_app_format.a	ee242911856cf83d
+437	611	1792921693347359395	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	dab79862b46802a
+611	759	1792921693520924873	esp-idf/main/libmain.a	8170ad1bf1f7d3d8
+759	6347	1792921699204101711	esp-idf/esp_system/ld/sections.ld	17326c025703a494
+759	6347	1792921699204101711	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esp_system/ld/sections.ld	17326c025703a494
+6350	7108	1792921699260040152	Lab9-1_OLED_BringUp.elf	543f8ffd8a9b1698
+7108	7386	1792921700294566662	.bin_timestamp	413a00afd06dc3c8
+7108	7386	1792921700294566662	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/.bin_timestamp	413a00afd06dc3c8
+7387	7487	1792921700296719409	esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
+7387	7487	1792921700296719409	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
+52	161	1792921844068633961	esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
+52	161	1792921844068633961	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c149fb3ce1ffb0c9
+50	198	1792921844066416257	bootloader-prefix/src/bootloader-stamp/bootloader-build	42faa6ce55e99691
+50	198	1792921844066416257	bootloader/bootloader.elf	42faa6ce55e99691
+50	198	1792921844066416257	bootloader/bootloader.bin	42faa6ce55e99691
+50	198	1792921844066416257	bootloader/bootloader.map	42faa6ce55e99691
+50	198	1792921844066416257	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	42faa6ce55e99691
+50	198	1792921844066416257	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader/bootloader.elf	42faa6ce55e99691
+50	198	1792921844066416257	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader/bootloader.bin	42faa6ce55e99691
+50	198	1792921844066416257	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader/bootloader.map	42faa6ce55e99691
+198	223	1792921844214768698	bootloader-prefix/src/bootloader-stamp/bootloader-install	998199983490d6fb
+198	223	1792921844214768698	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	998199983490d6fb
+223	276	1792921844290755000	CMakeFiles/bootloader-complete	f0878e38f637012
+223	276	1792921844290755000	bootloader-prefix/src/bootloader-stamp/bootloader-done	f0878e38f637012
+223	276	1792921844290755000	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/CMakeFiles/bootloader-complete	f0878e38f637012
+223	276	1792921844290755000	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f0878e38f637012
+276	5737	1792921844292809391	CMakeFiles/flash	c2c0e761abe055a8
+276	5737	1792921844292809391	/Users/phuwish/IOT Subject/Week-09-SPI-OLED-and-Kestrel-UI/67030183/Lab9-1_OLED_BringUp/build/CMakeFiles/flash	c2c0e761abe055a8
