@@ -64,6 +64,11 @@ sequenceDiagram
 
 *ภาพที่ 3.1: การตรวจพิสูจน์ความสอดคล้องแบบเรียลไทม์ (Co-Verification) ระหว่างหน้าจอ 0.96" SPI OLED (แสดงผล Multi-Zone UI: Raw ADC 2074, Level 50.6%, Status CALIBRATED) และหน้าจอ SVG Web Speedometer Dashboard บน Kestrel Server (.NET 10) ที่ชี้ระดับ 50.0% (Point 3 - 50%) อย่างสอดคล้องสมบูรณ์แบบ*
 
+### 🎥 วิดีโอสาธิตการทำงานจริงแบบ Real-time (Live Demonstration Video)
+
+* 🔗 **ลิงก์วิดีโอสาธิต (YouTube Shorts):** [https://www.youtube.com/shorts/4O3BOynoA40](https://www.youtube.com/shorts/4O3BOynoA40)
+* **คำอธิบายการสาธิต:** วิดีโอนี้บันทึกการทำงานของระบบ Closed-Loop IoT แบบเรียลไทม์ โดยเมื่อผู้ทดลองหมุนตัวต้านทานปรับค่าได้ (Potentiometer) บน Breadboard แถบ Bar Gauge และตัวเลข % บนหน้าจอ 0.96" SPI OLED จะเปลี่ยนค่าทันที พร้อมทั้งส่งสตรีมข้อมูลผ่าน Serial UART ไปยัง Kestrel Web Server (.NET 10) ทำให้เข็มไมล์ SVG Speedometer บนหน้าเว็บ Dashboard หมุนกวาดตามมืออย่างลื่นไหลพร้อมกัน พิสูจน์ความสอดคล้องของระบบทั้งฝั่งฮาร์ดแวร์และซอฟต์แวร์ได้อย่างสมบูรณ์
+
 ---
 
 ## 5. การตรวจวัดความหน่วงเวลาเชิงนิติวิทยาศาสตร์ (Latency Forensics)
