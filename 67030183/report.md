@@ -304,6 +304,12 @@ sequenceDiagram
 | **Point 4** | ประมาณ 75% | 3000 | 75.0 % | 75.0 % | [x] PASS  [ ] FAIL |
 | **Point 5** | หมุนขวาสุด (Max) | 3950 | 100.0 % | 100.0 % | [x] PASS  [ ] FAIL |
 
+### 📸 หลักฐานการตรวจพิสูจน์ทางกายภาพ (Co-Verification Photographic Proof)
+
+![ภาพการทดลอง Lab 9.3: Closed-Loop IoT Co-Verification](./images/lab9_3_closed_loop_co_verification.jpg)
+
+*ภาพที่ 3.1: การตรวจพิสูจน์ความสอดคล้องแบบเรียลไทม์ (Co-Verification) ระหว่างหน้าจอ 0.96" SPI OLED (แสดงผล Multi-Zone UI: Raw ADC 2074, Level 50.6%, Status CALIBRATED) และหน้าจอ SVG Web Speedometer Dashboard บน Kestrel Server (.NET 10) ที่ชี้ระดับ 50.0% (Point 3 - 50%) อย่างสอดคล้องสมบูรณ์แบบ*
+
 ---
 
 ## 3. การตรวจวัดความหน่วงเวลาเชิงนิติวิทยาศาสตร์ (Latency Forensics)
